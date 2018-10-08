@@ -17,25 +17,18 @@
 	width: 80%;
 }
 
-.biobox {
-	padding: 5px;
-}
-
 .name {
-	font-size: 18pt;
-    float: left;
+	font-size: 40pt;
 }
 .position {
-	font-size: 16pt;
-	float: right;
+	font-size: 35pt;
 }
 
 .bio {
-	font-size: 11pt;
+	font-size: 30pt;
 }
 
 .bioheader {
-	clear: both;
 	border-bottom: 2px solid black;
     border-bottom-color: #AAAAAA;
     margin-bottom: 0.5%;

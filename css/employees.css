@@ -8,6 +8,10 @@
     background: #f0f0f0;
 }
 
+.biobox {
+	padding: 2%;
+}
+
 .biopic img, .biobox {
 	vertical-align: middle;
 	box-shadow: 0 0 6px #AAAAAA;
@@ -18,14 +22,14 @@
 }
 
 .name {
-	font-size: 40pt;
+	font-size: 60pt;
 }
 .position {
-	font-size: 35pt;
+	font-size: 50pt;
 }
 
 .bio {
-	font-size: 30pt;
+	font-size: 40pt;
 }
 
 .bioheader {
